@@ -199,10 +199,6 @@ Password: admin123
 - Japanese
 - Portuguese
 
-## 📸 Screenshots
-
-> Add your screenshots here
-
 ## 🙏 Acknowledgements
 
 - HuggingFace for free AI API
